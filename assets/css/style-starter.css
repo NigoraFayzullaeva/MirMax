@@ -10439,7 +10439,7 @@ p {
   z-index: 1; }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/mainslide1.jpg) no-repeat center;
+  background: url(../images/h1_hero.jpg) no-repeat center;
   background-size: cover;
   min-height: 700px;
   position: relative;
@@ -10448,11 +10448,11 @@ p {
   align-items: center; }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/mainslide2.jpg) no-repeat center;
+  background: url(../images/slide-2.jpg) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/mainslide3.jpg) no-repeat center;
+  background: url(../images/hero.jpg) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top3 {
@@ -10948,7 +10948,7 @@ button.owl-next {
     line-height: 40px; } }
 
 .w3l-index4 .features {
-  background: url(../images/mainslide1.jpg) no-repeat 0px 0px;
+  background: url(../images/h1_hero.jpg) no-repeat 0px 0px;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -11254,7 +11254,7 @@ button.owl-next {
   display: none; }
 
 .w3l-subscribe .main-w3 {
-  background: url(../images/img1.jpg) no-repeat 0px 0px;
+  background: url(../images/contact-us.jpg) no-repeat 0px 0px;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
