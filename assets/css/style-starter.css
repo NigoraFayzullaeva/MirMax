@@ -1,10 +1,4 @@
 @charset "UTF-8";
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11335,8 +11329,8 @@ button.owl-next {
 
 .w3l-logos .logo-view img {
   transition: 0.3s ease;
-  padding: 1.5rem 2rem; }
-
+  /* padding: 1.5rem 2rem;  */
+}
 .w3l-logos .logo-view img:hover {
   transition: 0.3s ease; }
 
@@ -11345,7 +11339,7 @@ button.owl-next {
 
 @media screen and (max-width: 568px) {
   .w3l-logos .logo-view img {
-    padding: 1rem 0.2rem; } }
+    padding: 5px 0px; } }
 
 .w3l-footer-29-main #footers14-block {
   background-color: #000; }
@@ -11917,7 +11911,7 @@ section.w3l-about2 p {
   background: #fec24a; }
 
 .w3l-services2 .proff {
-  background: url(../images/work-6.jpg) no-repeat center;
+  background: url(../images/work-8.jpg) no-repeat center;
   background-size: cover;
   background-attachment: scroll;
   min-height: 300px; 
@@ -12065,4 +12059,3 @@ section.w3l-about2 p {
   .w3l-contact .contact-grids textarea {
     font-size: 16px; } }
 
-/*# sourceMappingURL=style-starter.css.map */
