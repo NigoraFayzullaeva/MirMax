@@ -5861,7 +5861,8 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important; }
+  padding-top: 3rem !important;
+padding-bottom: 70px; }
 
 .pr-5,
 .px-5 {
@@ -11916,10 +11917,11 @@ section.w3l-about2 p {
   background: #fec24a; }
 
 .w3l-services2 .proff {
-  background: url(../images/about.jpg) no-repeat center;
+  background: url(../images/work-6.jpg) no-repeat center;
   background-size: cover;
   background-attachment: scroll;
-  min-height: 600px; }
+  min-height: 300px; 
+}
 
 .w3l-services3 .story-inner-6 {
   background-color: #fff; }
