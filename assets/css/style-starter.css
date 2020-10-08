@@ -12059,3 +12059,7 @@ section.w3l-about2 p {
   .w3l-contact .contact-grids textarea {
     font-size: 16px; } }
 
+    .swiper-container {
+      width: 600px;
+      height: 400px;
+  }
